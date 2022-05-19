@@ -4,7 +4,7 @@
   <br />
 </p>
 
-I'm a [Flutter](https://flutter.dev)/[iOS](https://www.android.com) Developer with more than 2 years experience on software engineering. Building production-level mobile applications in multiple industries including `Social Media`, `Fin-Tech`, `E-Commerce`, and `Maps`.
+I'm a [Flutter](https://flutter.dev)/[iOS](https://www.android.com) Developer with more than 2.5 years experience on software engineering. Building production-level mobile applications in multiple industries including `Social Media`, `Fin-Tech`, `E-Commerce`, and `Maps`.
 
 
 * 🤗 About me
