@@ -14,5 +14,5 @@ I'm a [Flutter](https://flutter.dev)/[iOS](https://www.android.com) Developer wi
     - Interested in implementing sophisticated UI/UX designs
 
 * 📫 How to reach me:
-    * Email: chiragkalathiya08@gmail.com
+    * Email: chiragkalathiya129@gmail.com
     * [Linkedin](https://www.linkedin.com/in/chirag-kalathiya-0b77a21ba)
