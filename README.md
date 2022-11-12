@@ -7,7 +7,7 @@
 I'm a [Flutter](https://flutter.dev)/[iOS](https://www.android.com) Developer with more than 2.5 years experience on software engineering. Building production-level mobile applications in multiple industries including `Social Media`, `Fin-Tech`, `E-Commerce`, and `Maps`.
 
 Hour of code since Sep 7 2022
-<a href="https://wakatime.com/@c5412c5b-cc34-48bd-9a8e-0531b63ae600"><img src="https://wakatime.com/badge/user/c5412c5b-cc34-48bd-9a8e-0531b63ae600.svg"></a>
+	<a href="https://wakatime.com/@c5412c5b-cc34-48bd-9a8e-0531b63ae600"><img src="https://wakatime.com/badge/user/c5412c5b-cc34-48bd-9a8e-0531b63ae600.svg"></a>
 
 
 * 🤗 About me
