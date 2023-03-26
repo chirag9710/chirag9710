@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I'm a Full Stack Developer with more than 2.5 years of experience in software engineering. Building production-level mobile applications in multiple industries including Social Media, Fin-Tech, E-Commerce, and Maps.
+I'm a Full Stack Developer with more than 3 years of experience in software engineering. Building production-level mobile applications in multiple industries including Social Media, Fin-Tech, E-Commerce, and Maps.
 
 * 🌍  I'm based in Surat, Gujarat
 * ✉️  You can contact me at [chiragkalathiya129@gmail.com](mailto:chiragkalathiya129@gmail.com)
