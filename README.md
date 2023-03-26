@@ -8,7 +8,7 @@ I'm a Full Stack Developer with more than 2.5 years of experience in software en
 
 * 🌍  I'm based in Surat, Gujarat
 * ✉️  You can contact me at [chiragkalathiya129@gmail.com](mailto:chiragkalathiya129@gmail.com)
-* 🤝  I'm open to collaborating on I'm open to collaborating on Mobile apps and website development
+* 🤝  I'm open to collaborating on Mobile apps and website development
 * ⚡  Trying to learn new things as long as I'm alive
 
 ### Skills
